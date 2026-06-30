@@ -1,0 +1,21 @@
+venv/
+env/
+mm/
+.venv/
+
+.env
+.env*
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# VS Code Settings
+.vscode/
+
+# PyCharm Settings
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db

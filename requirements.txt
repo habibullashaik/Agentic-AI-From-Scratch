@@ -1,0 +1,4 @@
+langGraph
+langchain_groq
+langchain_core
+dotenv
