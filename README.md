@@ -2,6 +2,13 @@
 
 > A complete hands-on journey to mastering Agentic AI by building everything from scratch using Python, LangChain, LangGraph, and modern LLMs.
 
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![LangChain](https://img.shields.io/badge/LangChain-AgenticAI-green)
+![LangGraph](https://img.shields.io/badge/LangGraph-Workflow-orange)
+![Groq](https://img.shields.io/badge/Groq-LLM-red)
+![License](https://img.shields.io/badge/License-MIT-purple)
+
+---
 
 ## 📖 About This Repository
 
